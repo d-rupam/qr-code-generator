@@ -37,4 +37,4 @@ This utility allows for the instantaneous cryptographic encoding of text, URLs, 
 
 ## ⚖️ Operational Principles
 
-This utility is built on the philosophy of **Sovereign Engineering**. By eliminating third-party routing and server-side data harvesting, we guarantee that the user retains absolute ownership over both their input data and their physical output. Generating a static matrix should be a fundamental utility, not a monetized subscription trap.
+This utility is built on the philosophy of **Sovereign Engineering**. By eliminating third-party routing and server-side data harvesting, we guarantee that the user retains absolute ownership over both their input data and their physical output. Generating a static qr code should be a fundamental utility, not a monetized subscription trap.
